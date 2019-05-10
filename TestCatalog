@@ -1,6 +1,5 @@
 [[
     {
-        "Product1": "testProd1" ,
-        "Product2": "testProd2"
+        "Product1": {"Price" = 5}
     }
 ]]
