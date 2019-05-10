@@ -1,38 +1,6 @@
-[
+[[
     {
-        "id": "legacy_backbreaker_130_nature",
-        "name": "Legacy 130 Backbreaker - Nature",
-        "description": "Legacy: Rare schematic from the beginning of the game. This schematic is not available to get anymore.",
-        "active": true,
-        "amount_step_size": 1,
-        "amount_min": 1,
-        "amount_max": 100,
-        "is_featured": false,
-        "is_sale": false,
-        "price": 1.21,
-        "tag": [],
-        "image_name": "backbreaker.png",
-        "power_level": 130,
-        "stars": 5,
-        "mainCategory":"weapons",
-        "category": "legacy_weapons"
-    },
-    {
-        "id": "legacy_claxe_130_water",
-        "name": "Legacy 130 Claxe - Water",
-        "description": "Legacy: Rare schematic from the beginning of the game. This schematic is not available to get anymore.",
-        "active": true,
-        "amount_step_size": 1,
-        "amount_min": 1,
-        "amount_max": 100,
-        "is_featured": false,
-        "is_sale": false,
-        "price": 1.09,
-        "tag": [],
-        "image_name": "claxe.png",
-        "power_level": 130,
-        "stars": 5,
-        "mainCategory":"weapons",
-        "category": "legacy_weapons"
-    },
-]
+        "Product1": "testProd1",
+        "Product2": "testProd2"
+    }
+]]
