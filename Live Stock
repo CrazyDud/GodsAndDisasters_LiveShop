@@ -2,6 +2,9 @@
     	{
     		"Product1": {
     			"Price" : 5
-    		}
+    		},
+            "Ugur": {
+            	"Price" : "Is G4y XDDD"
+            }
     	}
     ]]
