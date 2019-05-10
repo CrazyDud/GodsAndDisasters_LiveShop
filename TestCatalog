@@ -1,3 +1,6 @@
-{
-	Item1 = {Price = 2}
-}
+[
+    {
+        "Product1": "testproduct",
+        "Product2": "testproduct2",
+    },
+]
