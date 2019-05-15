@@ -18,6 +18,18 @@
 				"AssetId" : "25215",
 				"SellType" : "Robux",
 				"Price": 25
+				},
+			"Product4":{
+				"RequiredLevel" : 1,
+				"AssetId" : "25215",
+				"SellType" : "Stars",
+				"Price": 25
+				},
+			"Product5":{
+				"RequiredLevel" : 1,
+				"AssetId" : "25215",
+				"SellType" : "Robux",
+				"Price": 25
 				}
 	}]
 ]
