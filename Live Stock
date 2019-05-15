@@ -3,19 +3,21 @@
     		"Product1":{
     			"RequiredLevel" : 2,
     			"AssetId" : "25215",
-              	"SellType" : "Stars",
+              		"SellType" : "Stars",
     			"Price": 25
     			},
-			"Product2":{
+			
+		"Product2":{
     			"RequiredLevel" : 5,
     			"AssetId" : "25215",
-              	"SellType" : "Stars",
+              		"SellType" : "Stars",
     			"Price": 25
     			},
-			"Product3":{
+			
+		"Product3":{
     			"RequiredLevel" : 1,
     			"AssetId" : "25215",
-              	"SellType" : "Robux",
+              		"SellType" : "Robux",
     			"Price": 25
     			}
     	}]
