@@ -9,35 +9,28 @@
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 1,
-				"AssetId" : "25215",
+				"AssetId" : "3193636151",
 				"SellType" : "Stars",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				},
 			"Slashy":{
 				"RequiredLevel" : 1,
-				"AssetId" : "25215",
-				"SellType" : "Stars",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
-				},
-			"LuckySword":{
-				"RequiredLevel" : 1,
-				"AssetId" : "25215",
+				"AssetId" : "3193646476",
 				"SellType" : "Stars",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				},
 			"BlueDoom":{
 				"RequiredLevel" : 1,
-				"AssetId" : "25215",
+				"AssetId" : "3193654201",
 				"SellType" : "Stars",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				},
 			"PurpleEnergy":{
 				"RequiredLevel" : 1,
-				"AssetId" : "25215",
+				"AssetId" : "3193660125",
 				"SellType" : "Stars",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
