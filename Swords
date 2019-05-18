@@ -14,6 +14,13 @@
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				},
+			"LuckySword":{
+				"RequiredLevel" : 1,
+				"AssetId" : "3193685542",
+				"SellType" : "Stars",
+				"Price": 25,
+				"Description" : "This is a test product lololol"
+				},
 			"Slashy":{
 				"RequiredLevel" : 1,
 				"AssetId" : "3193646476",
