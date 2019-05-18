@@ -4,32 +4,8 @@
 				"RequiredLevel" : 2,
 				"AssetId" : "25215",
 				"SellType" : "Stars",
-				"Price": 25
+				"Price": 25,
+				"Description" : "This is a test product lololol"
 				},
-
-			"Product2":{
-				"RequiredLevel" : 5,
-				"AssetId" : "25215",
-				"SellType" : "Stars",
-				"Price": 25
-				},
-			"Product3":{
-				"RequiredLevel" : 1,
-				"AssetId" : "25215",
-				"SellType" : "Robux",
-				"Price": 25
-				},
-			"Product4":{
-				"RequiredLevel" : 1,
-				"AssetId" : "25215",
-				"SellType" : "Stars",
-				"Price": 25
-				},
-			"Product5":{
-				"RequiredLevel" : 1,
-				"AssetId" : "25215",
-				"SellType" : "Robux",
-				"Price": 25
-				}
 	}]
 ]
