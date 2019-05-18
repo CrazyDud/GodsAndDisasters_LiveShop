@@ -31,14 +31,14 @@
 			"BlueDoom":{
 				"RequiredLevel" : 1,
 				"AssetId" : "3193654201",
-				"SellType" : "Stars",
+				"SellType" : "Robux",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				},
 			"PurpleEnergy":{
 				"RequiredLevel" : 1,
 				"AssetId" : "3193660125",
-				"SellType" : "Stars",
+				"SellType" : "Robux",
 				"Price": 25,
 				"Description" : "This is a test product lololol"
 				}
