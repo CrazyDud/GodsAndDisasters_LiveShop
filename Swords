@@ -1,46 +1,48 @@
 [
 	[{
 			"HeartSword":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 3,
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"Price": 250,
+				"Description" : "I love this sword with all of my HEART 💗"
 				},
 			"ShrekSword":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 6,
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"Price": 500,
+				"Description" : "This sword is found in a secret swamp.."
 				},
 			"LuckySword":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 10,
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"Price": 777,
+				"Description" : "🍀 I feel lucky 🍀"
 				},
 			"Slashy":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 5,
 				"AssetId" : "3193646476",
 				"SellType" : "Stars",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"Price": 350,
+				"Description" : "Slashing extremely good"
 				},
 			"BlueDoom":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 5,
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"DeveloperProductId" = "",
+				"Price": 0,
+				"Description" : "Ugur help, i can not find a cool description for this D:"
 				},
 			"PurpleEnergy":{
-				"RequiredLevel" : 1,
+				"RequiredLevel" : 10,
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
-				"Price": 25,
-				"Description" : "This is a test product lololol"
+				"DeveloperProductId" = "",
+				"Price": 0,
+				"Description" : "It's energy is from an uknown magical source with a great POWER!"
 				}
 	}]
 ]
