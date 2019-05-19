@@ -5,7 +5,7 @@
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
 				"Price": 250,
-				"Description" : "I love this sword with all of my HEART 💗"
+				"Description" : "I love this sword with all of my HEART <3"
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 6,
@@ -19,7 +19,7 @@
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
 				"Price": 777,
-				"Description" : "🍀I feel lucky🍀"
+				"Description" : "I feel lucky"
 				},
 			"Slashy":{
 				"RequiredLevel" : 5,
