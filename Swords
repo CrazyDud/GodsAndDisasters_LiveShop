@@ -32,7 +32,7 @@
 				"RequiredLevel" : 5,
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
-				"DeveloperProductId" = "",
+				"DeveloperProductId" : "",
 				"Price": 0,
 				"Description" : "Ugur help, i can not find a cool description for this D:"
 				},
@@ -40,7 +40,7 @@
 				"RequiredLevel" : 10,
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
-				"DeveloperProductId" = "",
+				"DeveloperProductId" : "",
 				"Price": 0,
 				"Description" : "It's energy is from an uknown magical source with a great POWER!"
 				}
