@@ -5,7 +5,7 @@
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
 				"Price": 250,
-				"Description" : "I love this sword with all of my HEART <3"
+				"Description" : "I love this sword with all of my HEART 💗"
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 6,
@@ -19,7 +19,7 @@
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
 				"Price": 777,
-				"Description" : "I feel lucky"
+				"Description" : "🍀I feel lucky🍀"
 				},
 			"Slashy":{
 				"RequiredLevel" : 5,
@@ -32,7 +32,6 @@
 				"RequiredLevel" : 5,
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
-				"DeveloperProductId" : 0,
 				"Price": 0,
 				"Description" : "Ugur help, i can not find a cool description for this D:"
 				},
@@ -40,7 +39,6 @@
 				"RequiredLevel" : 10,
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
-				"DeveloperProductId" : 0,
 				"Price": 0,
 				"Description" : "It's energy is from an uknown magical source with a great POWER!"
 				}
