@@ -5,14 +5,14 @@
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
 				"Price": 250,
-				"Description" : "I love this sword with all of my HEART <3"
+				"Description" : "I love this sword with all of my HEART 💗"
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 6,
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
 				"Price": 500,
-				"Description" : "This sword is found in a secret swamp.."
+				"Description" : "This sword was found in a secret swamp.."
 				},
 			"LuckySword":{
 				"RequiredLevel" : 10,
@@ -33,14 +33,14 @@
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
 				"Price": 0,
-				"Description" : "Ugur help, i can not find a cool description for this D:"
+				"Description" : "💀 Ugur help, i can not find a cool description for this D:"
 				},
 			"PurpleEnergy":{
 				"RequiredLevel" : 10,
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
 				"Price": 0,
-				"Description" : "It's energy is from an uknown magical source with a great POWER!"
+				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀"
 				}
 	}]
 ]
