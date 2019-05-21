@@ -41,6 +41,13 @@
 				"SellType" : "Robux",
 				"Price": 541196565,
 				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀"
+				},
+			"ThorHammer":{
+				"RequiredLevel" : 15,
+				"AssetId" : "3203465730",
+				"SellType" : "Robux",
+				"Price": 542170104,
+				"Description" : "Powerful 🔨⚡"
 				}
 	}]
 ]
