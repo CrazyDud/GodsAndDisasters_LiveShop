@@ -11,14 +11,14 @@
 				"RequiredLevel" : 6,
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
-				"Price": 500,
+				"Price": 50000,
 				"Description" : "This sword was found in a secret swamp.."
 				},
 			"LuckySword":{
-				"RequiredLevel" : 10,
+				"RequiredLevel" : 777,
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
-				"Price": 777,
+				"Price": 7777,
 				"Description" : "🍀I feel lucky🍀"
 				},
 			"Slashy":{
@@ -29,7 +29,7 @@
 				"Description" : "Slashing extremely good"
 				},
 			"BlueDoom":{
-				"RequiredLevel" : 5,
+				"RequiredLevel" : 45,
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
 				"Price": 541196417,
