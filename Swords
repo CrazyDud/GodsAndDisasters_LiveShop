@@ -5,56 +5,64 @@
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
 				"Price": 250,
-				"Description" : "I love this sword with all of my HEART 💗"
+				"Description" : "I love this sword with all of my HEART 💗",
+				"Upgrades" : {"Level2" : "3205011763"}
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 6,
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
 				"Price": 50000,
-				"Description" : "This sword was found in a secret swamp.."
+				"Description" : "This sword was found in a secret swamp..",
+				"Upgrades" : {}
 				},
 			"LuckySword":{
 				"RequiredLevel" : 777,
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
 				"Price": 7777,
-				"Description" : "🍀I feel lucky🍀"
+				"Description" : "🍀I feel lucky🍀",
+				"Upgrades" : {}
 				},
 			"Slashy":{
 				"RequiredLevel" : 5,
 				"AssetId" : "3193646476",
 				"SellType" : "Stars",
 				"Price": 350,
-				"Description" : "Slashing extremely good"
+				"Description" : "Slashing extremely good",
+				"Upgrades" : {}
 				},
 			"BlueDoom":{
 				"RequiredLevel" : 45,
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
 				"Price": 541196417,
-				"Description" : "💀 Ugur help, i can not find a cool description for this D:"
+				"Description" : "💀 Ugur help, i can not find a cool description for this D:",
+				"Upgrades" : {}
 				},
 			"PurpleEnergy":{
 				"RequiredLevel" : 10,
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
 				"Price": 541196565,
-				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀"
+				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀",
+				"Upgrades" : {}
 				},
 			"ThorHammer":{
 				"RequiredLevel" : 15,
 				"AssetId" : "3203465730",
 				"SellType" : "Robux",
 				"Price": 542170104,
-				"Description" : "Powerful 🔨⚡"
+				"Description" : "Powerful 🔨⚡",
+				"Upgrades" : {}
 				},
 			"InvisibleSword":{
 				"RequiredLevel" : 20,
 				"AssetId" : "3204992297",
 				"SellType" : "Stars",
 				"Price": 1100,
-				"Description" : "Can you see it?"
+				"Description" : "Can you see it?",
+				"Upgrades" : {}
 				}
 	}]
 ]
