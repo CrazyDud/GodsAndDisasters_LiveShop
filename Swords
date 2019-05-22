@@ -48,6 +48,13 @@
 				"SellType" : "Robux",
 				"Price": 542170104,
 				"Description" : "Powerful 🔨⚡"
+				},
+			"InvisibleSword":{
+				"RequiredLevel" : 20,
+				"AssetId" : "3204992297",
+				"SellType" : "Stars",
+				"Price": 1100,
+				"Description" : "Can you see it?"
 				}
 	}]
 ]
