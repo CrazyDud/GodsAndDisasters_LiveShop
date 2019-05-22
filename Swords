@@ -7,7 +7,7 @@
 				"Price": 250,
 				"Description" : "I love this sword with all of my HEART 💗",
 				"Exp" : 0,
-				"Upgrades" : {"Level2" : {"AssetId" : "3205011763", "RequiredExp" : 10, "Cost" : 150}}
+				"Upgrades" : {"Level2" : {"AssetId" : "3205011763", "RequiredExp" : 1, "Cost" : 150}}
 				},
 			"ShrekSword":{
 				"RequiredLevel" : 6,
