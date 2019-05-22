@@ -6,6 +6,7 @@
 				"SellType" : "Stars",
 				"Price": 250,
 				"Description" : "I love this sword with all of my HEART 💗",
+				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3205011763", "RequiredExp" : 10, "Cost" : 150}}
 				},
 			"ShrekSword":{
@@ -14,6 +15,7 @@
 				"SellType" : "Stars",
 				"Price": 50000,
 				"Description" : "This sword was found in a secret swamp..",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"LuckySword":{
@@ -22,6 +24,7 @@
 				"SellType" : "Stars",
 				"Price": 7777,
 				"Description" : "🍀I feel lucky🍀",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"Slashy":{
@@ -30,6 +33,7 @@
 				"SellType" : "Stars",
 				"Price": 350,
 				"Description" : "Slashing extremely good",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"BlueDoom":{
@@ -38,6 +42,7 @@
 				"SellType" : "Robux",
 				"Price": 541196417,
 				"Description" : "💀 Ugur help, i can not find a cool description for this D:",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"PurpleEnergy":{
@@ -46,6 +51,7 @@
 				"SellType" : "Robux",
 				"Price": 541196565,
 				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"ThorHammer":{
@@ -54,6 +60,7 @@
 				"SellType" : "Robux",
 				"Price": 542170104,
 				"Description" : "Powerful 🔨⚡",
+				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"InvisibleSword":{
@@ -62,6 +69,7 @@
 				"SellType" : "Stars",
 				"Price": 1100,
 				"Description" : "Can you see it?",
+				"Exp" : 0,
 				"Upgrades" : {}
 				}
 	}]
