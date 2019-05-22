@@ -67,7 +67,7 @@
 				"RequiredLevel" : 20,
 				"AssetId" : "3204992297",
 				"SellType" : "Stars",
-				"Price": 1100,
+				"Price": 1,
 				"Description" : "Can you see it?",
 				"Exp" : 0,
 				"Upgrades" : {}
