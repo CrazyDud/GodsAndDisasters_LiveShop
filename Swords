@@ -43,7 +43,8 @@
 				"Price": 541196417,
 				"Description" : "💀 Ugur help, i can not find a cool description for this D:",
 				"Exp" : 0,
-				"Upgrades" : {}
+				"Upgrades" : {	"Level2" : {"AssetId" : "3209956775", "RequiredExp" : 0, "Cost" : 150},
+						"Level3" : {"AssetId" : "3209962686", "RequiredExp" : 0, "Cost" : 150}}
 				},
 			"PurpleEnergy":{
 				"RequiredLevel" : 10,
