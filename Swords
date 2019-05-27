@@ -34,7 +34,7 @@
 				"Price": 350,
 				"Description" : "Slashing extremely good",
 				"Exp" : 0,
-				"Upgrades" : {}
+				"Upgrades" : {"Level2" : {"AssetId" : "3226307838", "RequiredExp" : 5, "Cost" : 150}}
 				},
 			"BlueDoom":{
 				"RequiredLevel" : 45,
