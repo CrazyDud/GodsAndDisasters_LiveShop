@@ -16,7 +16,7 @@
 				"AssetId" : "3226454884",
 				"SellType" : "Stars",
 				"Price": 65,
-				"Description" : "Ugur yazcak",
+				"Description" : "Starts with a good laugh",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226461487", "RequiredExp" : 8, "Cost" : 10}}
 				},
@@ -25,7 +25,7 @@
 				"AssetId" : "3226417211",
 				"SellType" : "Robux",
 				"Price": 546920001,
-				"Description" : "Ugur yazcak",
+				"Description" : "Legend of the got",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226434942", "RequiredExp" : 50, "Cost" : 300}}
 				},
@@ -34,7 +34,7 @@
 				"AssetId" : "3226395289",
 				"SellType" : "Stars",
 				"Price": 30,
-				"Description" : "Ugur yazcak",
+				"Description" : "Final fantasy like sword (Grows bigger when you upgrade)",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226404913", "RequiredExp" : 20, "Cost" : 50}}
 				},
@@ -43,7 +43,7 @@
 				"AssetId" : "3226380351",
 				"SellType" : "Stars",
 				"Price": 10,
-				"Description" : "Ugur yazcak",
+				"Description" : "Belonged to ancient Egyptian warrior",
 				"Exp" : 0,
 				"Upgrades" : {}
 				},
@@ -61,7 +61,7 @@
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
 				"Price": 80,
-				"Description" : "This sword was found in a secret swamp..",
+				"Description" : "Legend says this sword was given by Ogre who lives in the woods",
 				"Exp" : 0,
 				"Upgrades" : {}
 				},
@@ -70,7 +70,7 @@
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
 				"Price": 777,
-				"Description" : "🍀I feel lucky🍀",
+				"Description" : "🍀You feel lucky?🍀",
 				"Exp" : 0,
 				"Upgrades" : {}
 				},
@@ -79,7 +79,7 @@
 				"AssetId" : "3193646476",
 				"SellType" : "Stars",
 				"Price": 50,
-				"Description" : "Slashing extremely good",
+				"Description" : "There is more treasure in books than in all the pirate's loot on Treasure Island.",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226307838", "RequiredExp" : 5, "Cost" : 150}}
 				},
@@ -88,7 +88,7 @@
 				"AssetId" : "3193654201",
 				"SellType" : "Robux",
 				"Price": 547382379,
-				"Description" : "💀 Ugur help, i can not find a cool description for this D:",
+				"Description" : "💀Made from bones of the eternal skeleton (3 levels)",
 				"Exp" : 0,
 				"Upgrades" : {	"Level2" : {"AssetId" : "3209956775", "RequiredExp" : 1, "Cost" : 250},
 						"Level3" : {"AssetId" : "3209962686", "RequiredExp" : 2, "Cost" : 350}}
@@ -98,7 +98,7 @@
 				"AssetId" : "3193660125",
 				"SellType" : "Robux",
 				"Price": 547382703,
-				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀",
+				"Description" : "It's energy is from an uknown magical source with a great POWER 🌀 (3 levels)",
 				"Exp" : 0,
 				"Upgrades" : { "Level2" : {"AssetId" : "3226330822", "RequiredExp" : 15, "Cost" : 100 },
 					       "Level3" : {"AssetId" : "3226356468", "RequiredExp" : 30, "Cost" : 200 }}
@@ -108,7 +108,7 @@
 				"AssetId" : "3203465730",
 				"SellType" : "Robux",
 				"Price": 547383061,
-				"Description" : "Powerful 🔨⚡",
+				"Description" : "Only those who worthy can handle (Upgrade avaible) 🔨⚡",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226443288", "RequiredExp" : 40, "Cost" : 111 }}
 				},
