@@ -1,6 +1,16 @@
 [
 	[{
 			
+			"RobloxSword":{
+				"RequiredLevel" : 0,
+				"AssetId" : "3228360827",
+				"SellType" : "Stars",
+				"Price": -1,
+				"Description" : "This sword is given to SPECIAL players of Roblox",
+				"Exp" : 0,
+				"Upgrades" : {}
+				},
+			
 			"EmojiSword":{
 				"RequiredLevel" : 5,
 				"AssetId" : "3226454884",
