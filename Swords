@@ -33,7 +33,7 @@
 				"RequiredLevel" : 5,
 				"AssetId" : "3226395289",
 				"SellType" : "Stars",
-				"Price": 200,
+				"Price": 30,
 				"Description" : "Ugur yazcak",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226404913", "RequiredExp" : 20, "Cost" : 50}}
@@ -42,7 +42,7 @@
 				"RequiredLevel" : 3,
 				"AssetId" : "3226380351",
 				"SellType" : "Stars",
-				"Price": 30,
+				"Price": 10,
 				"Description" : "Ugur yazcak",
 				"Exp" : 0,
 				"Upgrades" : {}
@@ -51,7 +51,7 @@
 				"RequiredLevel" : 3,
 				"AssetId" : "3193609024",
 				"SellType" : "Stars",
-				"Price": 250,
+				"Price": 15,
 				"Description" : "I love this sword with all of my HEART 💗",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3205011763", "RequiredExp" : 10, "Cost" : 150}}
@@ -60,25 +60,25 @@
 				"RequiredLevel" : 6,
 				"AssetId" : "3193636151",
 				"SellType" : "Stars",
-				"Price": 50000,
+				"Price": 80,
 				"Description" : "This sword was found in a secret swamp..",
 				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"LuckySword":{
-				"RequiredLevel" : 777,
+				"RequiredLevel" : 7,
 				"AssetId" : "3193685542",
 				"SellType" : "Stars",
-				"Price": 7777,
+				"Price": 777,
 				"Description" : "🍀I feel lucky🍀",
 				"Exp" : 0,
 				"Upgrades" : {}
 				},
 			"Slashy":{
-				"RequiredLevel" : 5,
+				"RequiredLevel" : 4,
 				"AssetId" : "3193646476",
 				"SellType" : "Stars",
-				"Price": 350,
+				"Price": 50,
 				"Description" : "Slashing extremely good",
 				"Exp" : 0,
 				"Upgrades" : {"Level2" : {"AssetId" : "3226307838", "RequiredExp" : 5, "Cost" : 150}}
@@ -113,10 +113,10 @@
 				"Upgrades" : {"Level2" : {"AssetId" : "3226443288", "RequiredExp" : 40, "Cost" : 111 }}
 				},
 			"InvisibleSword":{
-				"RequiredLevel" : 20,
+				"RequiredLevel" : 10,
 				"AssetId" : "3204992297",
 				"SellType" : "Stars",
-				"Price": 1,
+				"Price": 100,
 				"Description" : "Can you see it?",
 				"Exp" : 0,
 				"Upgrades" : {}
